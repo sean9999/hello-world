@@ -1,2 +1,1 @@
-hello, world. the time is
-<?php time() ?>
+hello, world. the time is <?= time() ?>
